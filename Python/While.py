@@ -1,6 +1,6 @@
 #!/sur/bin/pyton3
 
-n = 100
+n = 1000
 
 sum = 0
 counter = 1
